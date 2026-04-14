@@ -1,0 +1,41 @@
+{
+  "true": [
+    "Raf",
+    "Mek",
+    "Plcg",
+    "PIP2",
+    "PIP3",
+    "Erk",
+    "Akt",
+    "PKA",
+    "PKC",
+    "P38",
+    "Jnk"
+  ],
+  "pred_aligned": [
+    "Raf",
+    "Mek",
+    "Plcg",
+    "PIP2",
+    "PIP3",
+    "Erk",
+    "Akt",
+    "PKA",
+    "PKC",
+    "P38",
+    "Jnk"
+  ],
+  "overlap": [
+    "Akt",
+    "Erk",
+    "Jnk",
+    "Mek",
+    "P38",
+    "PIP2",
+    "PIP3",
+    "PKA",
+    "PKC",
+    "Plcg",
+    "Raf"
+  ]
+}

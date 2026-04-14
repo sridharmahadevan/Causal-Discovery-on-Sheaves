@@ -1,0 +1,10 @@
+alpha,mode,precision,recall,f1,shd
+001,eval_intersection,0.333,0.333,0.333,4
+001,eval_k1,0.333,0.333,0.333,4
+001,eval_pooled,0.154,1.0,0.267,11
+002,eval_intersection,0.333,0.333,0.333,4
+002,eval_k1,0.333,0.333,0.333,4
+002,eval_pooled,0.154,1.0,0.267,11
+003,eval_intersection,0.333,0.5,0.4,3
+003,eval_k1,0.333,0.5,0.4,3
+003,eval_pooled,0.154,1.0,0.267,11

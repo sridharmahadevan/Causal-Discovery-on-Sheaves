@@ -1,0 +1,8 @@
+{
+  "mode": "all_but_k",
+  "k": 1,
+  "num_envs": 3,
+  "num_nodes": 9,
+  "num_edges": 6,
+  "density_offdiag": 0.08333333333333333
+}

@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.swp
+*.swo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+.venv*/
+env/
+venv/
+artifacts/**/generated/
+artifacts/**/eval_tmp/
