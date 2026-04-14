@@ -9,6 +9,14 @@ The goal of this trimmed repository is simple:
 - keep checked-in summary artifacts that validate the reported results,
 - leave out large legacy trees, virtual environments, and exploratory runs.
 
+### Background papers
+
+This repository is best read together with the following background papers:
+
+- Sridhar Mahadevan. [Decentralized Causal Discovery using Judo Calculus](https://arxiv.org/abs/2510.23942). CoRR, 2025.
+- Sridhar Mahadevan. [Intuitionistic j-Do-Calculus in Topos Causal Models](https://arxiv.org/abs/2510.17944). CoRR, 2025.
+- Sridhar Mahadevan. [Universal Causal Inference in a Topos](https://openreview.net/forum?id=TOhpnECT10). NeurIPS 2025 Spotlight.
+
 ### What is in scope
 
 - `experiments/interference/`
