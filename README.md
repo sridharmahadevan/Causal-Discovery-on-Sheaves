@@ -1,6 +1,6 @@
 ## Causal Discovery on Sheaves
 
-This repository is a lean, paper-facing companion to the larger internal codebase used for the JMLR submission on causal discovery over regime covers and sheaf-style gluing.
+This repository is a lean software companion for work on causal discovery over regime covers, sheaf-style gluing, and judo-calculus-based causal inference.
 
 The goal of this trimmed repository is simple:
 
@@ -11,7 +11,7 @@ The goal of this trimmed repository is simple:
 
 ### Background papers
 
-This repository is best read together with the following background papers:
+This repository is best read together with the following papers:
 
 - Sridhar Mahadevan. [Decentralized Causal Discovery using Judo Calculus](https://arxiv.org/abs/2510.23942). CoRR, 2025.
 - Sridhar Mahadevan. [Intuitionistic j-Do-Calculus in Topos Causal Models](https://arxiv.org/abs/2510.17944). CoRR, 2025.
